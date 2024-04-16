@@ -7,7 +7,7 @@ Author: Murat Buyukyoruk
 This script is developed to illustrate a phylogenetic tree (.newick) along side with a genemap that demonstrates 
 the protein sequence alignment and domain prevelance.
 
-![alt_txt](https://github.com/mbuyukyoruk/Phylo_2_genemap/blob/main/demo_tree_genemap.pdf)
+![alt_txt](https://github.com/mbuyukyoruk/Phylo_2_genemap/blob/main/demo_tree_genemap%404x.png)
 
 R is required to generate plots with various CRAN packages (i.e., ggtree, gggenes, tidyverse, tidytree and their 
 depencencies). The R script is generated to install CRAN packages if they were not available in the system, 
