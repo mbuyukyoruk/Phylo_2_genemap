@@ -92,6 +92,8 @@ if(FLIP=="y"){
   
 }
 
+genemap <- subset(genemap,gene!="GAP")
+
 ### Map domains to ggtree plot ###
 
 tip_count <- length(x$tip.label)
