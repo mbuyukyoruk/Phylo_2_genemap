@@ -104,7 +104,7 @@ ank = results.ank
 flip = results.flip.lower()
 interactive = results.interactive.lower()
 
-wd = os.getcwd()
+wd = os.path.dirname(os.path.realpath(__file__))
 
 def spinning_cursor():
     while True:
